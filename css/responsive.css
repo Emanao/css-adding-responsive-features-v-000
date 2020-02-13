@@ -35,5 +35,7 @@
 }
 
 @media only screen and max(max-width:){
-  #nav
+  #nav nav a {
+    font-size: 0.9em;
+  }
 }
