@@ -34,10 +34,18 @@
   }
 }
 
-@media only screen and max(max-width:800px){
+@media only screen and (max-width:800px){
   #nav nav a {
     font-size: 0.9em;
   }
 }
 
-@media only screen and max
+@media only screen and max(max-width: 750){
+  .col-1, .col-2, .col-3{
+    width:100%;
+    margin-left: : none;
+    float: none;
+
+  }
+
+}
