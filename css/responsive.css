@@ -60,5 +60,13 @@
   }
 }
 @media only screen and max(max-width: 700px){
+  #navbar nav a{
+    display:none;
+  }
+  #navbar nav a{
+    display:block;
+    
+  }
+
 
 }
